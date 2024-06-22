@@ -1,0 +1,12 @@
+/* Example styles */
+.header {
+  background-color: #343a40; /* dark background */
+  color: #ffffff; /* light text */
+  padding: 10px;
+}
+
+.body {
+  background-color: #ffffff; /* light background */
+  color: #343a40; /* dark text */
+  padding: 20px;
+}
